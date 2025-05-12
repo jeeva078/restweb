@@ -283,7 +283,7 @@ Publish the website in the given URL.
     </section>
     <footer id="footer">
         <h2>Restraunt &copy; all rights reserved  
-            Designed & Developed by GOKUL
+            Designed & Developed by jeevanandam m
         </h2>
     </footer>
 
